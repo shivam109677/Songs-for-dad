@@ -47,7 +47,7 @@ Name it something like `songs.txt`.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Shivam109677/Songs-for-dad.git
+   git clone https://github.com/shivam109677/Songs-for-dad.git
    cd songs-for-dad
    
 2. Install dependencies:
